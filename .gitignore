@@ -16,7 +16,6 @@
 Pods
 
 DerivedData
-build
 
 Vendor/Parse.framework
 Vendor/Bolts.framework
@@ -27,3 +26,4 @@ Vendor/tvOS/Parse.framework
 Vendor/tvOS/Bolts.framework
 Vendor/tvOS/FBSDKCoreKit.framework
 Vendor/tvOS/FBSDKTVOSKit.framework
+Carthage/Checkouts
